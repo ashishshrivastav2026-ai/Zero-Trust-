@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Guardian Hub",
+  "description": "A Zero-Trust security dashboard for Android 16, featuring automated link interception, AI-powered threat analysis, and a high-contrast Guardian UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI_POWERED_SECURITY",
+    "THREAT_SCANNING"
+  ]
+}
